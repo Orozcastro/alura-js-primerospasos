@@ -1,0 +1,20 @@
+{
+  "name": "alura-js-primerospasos",
+  "version": "1.0.0",
+  "description": "Gestion de cuentas corrientes del banco popular",
+  "main": "2_orientacionObjetos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orozcastro/alura-js-primerospasos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Orozcastro/alura-js-primerospasos/issues"
+  },
+  "homepage": "https://github.com/Orozcastro/alura-js-primerospasos#readme"
+}
